@@ -25,13 +25,13 @@ myFunction();
 
 /* Create a function called `summation` that accepts a parameter and uses a counter to return the summation of that number. For example, `summation(4)` should return 10 because 1+2+3+4 is 10. *///Most of these are trying to take arrays
 
-// const summation = 
-
-// function summation (num){
-
-
+// let num =0;
+// function summation(a){
+//   for(let i = 0; i <a ; i++){
+//   num += a;}
 // }
 
 // const summation = .reduce(function(acc,item){//maybe
 //   return acc + item},1);
-//   summation(4)
+  summation(4)
+  console.log(num);
