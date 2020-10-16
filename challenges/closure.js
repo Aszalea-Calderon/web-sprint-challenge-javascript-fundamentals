@@ -24,9 +24,4 @@ myFunction();
 /* Task 2: Counter */
 
 /* Create a function called `summation` that accepts a parameter and uses a counter to return the summation of that number. For example, `summation(4)` should return 10 because 1+2+3+4 is 10. */
-//Review
-function summation () {
-  let sum = 0;
-  counter += 1;
-}
-summation (4);
+const summation = numbers.reduce(function(acc.item))
